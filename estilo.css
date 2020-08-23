@@ -1,0 +1,125 @@
+#menuLogin1 {
+    font-family: 'Alata', sans-serif;
+    max-width: cover;
+    max-height: cover;
+    background-color: white;
+    color: black;
+    text-align: right;
+}
+
+.divs-lado-a-ladoLogin {
+    display: inline-block;
+    text-align: right;
+    padding-left: -2px;
+    padding-right: -2px;
+    font-size: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-right: 10px;
+}
+
+#cabecalho {
+    background-color: white;
+    background-image: url('./cfnet.jpg');
+    background-size: 30%;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+    padding-top: 10px;
+}
+
+#menu1 {
+    text-decoration: none;
+    max-width: cover;
+    max-height: cover;
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    color: #f1f1f1;
+    text-align: center;
+}
+
+.divs-lado-a-lado {
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.botoes {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    padding-bottom: 17px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.botoes:hover {
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    padding-bottom: 16px;
+    border-bottom: 8px solid white;
+    border-bottom-color: white;
+}
+
+.botoesLogin:hover {
+    font-size: 17px;
+    padding-bottom: 17px;
+    border-bottom: 4px solid black;
+    border-bottom-color: black;
+}
+
+footer {
+    max-width: cover;
+    max-height: cover;
+    height: 25px;
+    width: auto;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.imagemfundoConexoes {
+    background-image: url("./—Pngtree—sphere\ architecture\ social\ globalization\ internet_5244961.png");
+    height: 400px;
+    width: 400px;
+    background-size: 50%;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
+#frufru {
+    text-align: center;
+    align-content: center;
+    padding-top: 80px;
+}
+
+.divsFrufru {
+    display: inline-block;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#servico {
+    height: 600px;
+    width: 400px;
+}
+
+#suporte {
+    height: 600px;
+    width: 400px;
+}
+
+#velocidade {
+    height: 600px;
+    width: 400px;
+}
